@@ -10,6 +10,9 @@
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
 
+
+        <!-- these are the main nav items top left -->
+
           <!-- ************************************************************** -->
 
 

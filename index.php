@@ -45,8 +45,12 @@
                 <h4 class="card-title">
                   <a href="#">Courses</a>
                 </h4>
-            
+                <!-- ********************************************************** -->
+
+                <!-- query to list the number of live courses -->
                 <p class="card-text">There are x live courses</p>
+                <!-- ********************************************************** -->
+
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -61,8 +65,12 @@
                 <h4 class="card-title">
                   <a href="#">Modules</a>
                 </h4>
-          
+                <!-- ********************************************************** -->
+                <!-- query to list the number of live courses -->
+
                 <p class="card-text">There are x live modules.</p>
+
+                <!-- ********************************************************** -->
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
